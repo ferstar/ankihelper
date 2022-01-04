@@ -56,3 +56,7 @@ pom.xml.*
 
 # Readium DRM LCP
 liblcp.aar
+
+# vscode
+.vscode
+.settings
